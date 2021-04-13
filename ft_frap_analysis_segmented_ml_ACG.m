@@ -18,6 +18,7 @@
 % vpix = 512; % number of pixels in vertical axis
 % hpix = 512; % number of pixels in horizontal axis
 % microns = 512 * 1;% number of microns in one axis
+% add a testing line
 
 path = '\\10.164.16.234\Data\DustinHarmon\03312021\Mazin-A1\'; % folder name
 file = '31-Mar-2021 11_55_09 GalvoRes ChanA Counting Pol1 10000Images.bin'; % file name
